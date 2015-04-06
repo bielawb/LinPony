@@ -1,0 +1,8 @@
+class CIM_Pony
+{
+  [Key] String Name;
+  String Colour;
+  String Sign;
+  Boolean Horn;
+  Boolean Wings;
+};
